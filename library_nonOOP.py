@@ -78,4 +78,4 @@ def main():
             
         else:
             print("Yanlış tuş.")
-main()
+main()  # procedural refactoring for OOP layout
